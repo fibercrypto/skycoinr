@@ -34,3 +34,10 @@ vignettes/*.pdf
 
 # Shiny token, see https://shiny.rstudio.com/articles/shinyapps.html
 rsconnect/
+
+
+swig/include/libskycoin.h
+
+#IDE
+.vscode
+skycoin_wrap.c
